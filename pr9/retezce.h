@@ -1,6 +1,0 @@
-#ifndef RETEZCE_H_INCLUDED
-#define RETEZCE_H_INCLUDED
-
-
-
-#endif // RETEZCE_H_INCLUDED
